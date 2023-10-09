@@ -1,3 +1,10 @@
+## Tech Stack ⚡
+This open source repository contains a Java Console Application to generate Random passwords and performing a Strength check.
+
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 ## Showcase 🔭
 
 
